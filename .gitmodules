@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "brainGraph"]
 	path = brainGraph
 	url = https://github.com/cwatson/braingraph
-	shallow = true
-	registered = true
